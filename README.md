@@ -4,4 +4,4 @@
 
 ## Контакты
 - GitHub: [qwizzzz0](https://github.com/qwizzzz0)
-- Email: re_18@list.russh -T git@github.com
+- Email: re_18@list.ru

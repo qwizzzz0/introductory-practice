@@ -1,1 +1,7 @@
-# introductory-practice
+# Ознакомительная практика 2025
+
+Здравствуйте! Меня зовут Гаврилов Кирилл. Это мой репозиторий для прохождения ознакомительной практики.
+
+## Контакты
+- GitHub: [qwizzzz0](https://github.com/qwizzzz0)
+- Email: re_18@list.russh -T git@github.com
